@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: rgb(237, 241, 245);
+    margin-top: 100px;
+    margin-bottom: 100px;
+ }
+ .centered-button {
+     display: block;
+     margin: 0 auto;
+     padding-left: 2.5rem;
+     padding-right: 2.5rem;
+ }

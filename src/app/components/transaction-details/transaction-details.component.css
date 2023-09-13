@@ -1,0 +1,24 @@
+tr.success{
+    background-color: rgb(174, 236, 174);
+}
+tr.failed{
+    background-color: rgb(237, 115, 115);
+}
+tr.inProgress{
+    background-color: rgb(146, 146, 240);
+}
+  .isAboutDelete {
+    background-color: yellow !important;
+}
+.margin-left {
+    margin-left: 1rem;
+
+}
+.nodata{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+  
+  
+  
